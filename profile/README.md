@@ -1,12 +1,29 @@
-## Hi there 👋
+# Cofin Project
 
-<!--
 
-**Here are some ideas to get you started:**
+## 담당자 이상호
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+## 👉 프로젝트 소개
+
+- 프로젝트명 코핀은 'Corona Finish'의 약자로 1년이 넘어가는 코로나 사태를 하루라도 빨리 끝내기를 바라는 기원과 포부를 담아 지었습니다. 코로나 바이러스와 백신에 대한 정보, 국내와 해외의 확진자 추세, 백신 접종시 건강상태 자가 체크 가이드 등을 제공합니다.
+
+## 개발 기간
+#### 2021. 11. 1 ~ 2021. 12.?? (??주)
+
++ 1주차 : JSX를 활용한 기본 화면 구성
++ 2주차 : 
++ 3주차 : 
++ 4주차 : 
++ 5주차 : 
+
+
+## Front 또는 backend 기술 스택
+
+
+## 팀 소개
+| part   | name |
+| ------ | ------------------ |
+| 프론트 | 노준일             |
+| 백엔드 | 이시원             |
+| 백엔드 | 이상호             |
+| 백엔드 | 윤현성             |
