@@ -9,8 +9,7 @@
 
 + 1주차 : base outline components created
 + 2주차 : importing in csv datasets to create dataform models
-+ 3주차 : 
-+ 4주차 : 
++ 3 ~ 4주차 : implement each function
 + 5주차 : 
 
 
